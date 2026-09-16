@@ -32,14 +32,3 @@ li {
   font-weight: bold;
   cursor: pointer;
 }
-
-
-
-li:nth-child(3) {
-  background: #ffbe0b;
-  color: #000;
-}
-
-li:hover {
-  opacity: 0.8;
-}
